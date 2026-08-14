@@ -394,7 +394,7 @@
 
 //14 (GPT was halped)
 // const getStringLength = (text) => text.length;
-// console.log(getStringLength("You are faking niger"));
+// console.log(getStringLength("You are ideot?"));
 
 //15
 // var day = +prompt(`Write week day: `);

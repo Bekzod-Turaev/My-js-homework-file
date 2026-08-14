@@ -277,6 +277,141 @@
 //     default: console.log(`Bunaga valuta bizarni baza dannimizda yo'q`);
 // }
 
+// 13th lesson
+
+// 1
+// const user_name=`CUCUMBER`;
+
+// const myFunction = user_name => console.log(confirm(`Good morning ${ user_name} `));
+
+
+// myFunction(user_name)
+
+// 2
+// const number= +prompt( `Write number and I find its square: `);
+
+// const myFunc = num => console.log(`Your number's squre is ${num * num}` );
+
+// myFunc(number)
+
+// 3
+// const year_of_birth = +prompt( `Write year ehen you was born: `); 
+
+// const myFunc = year => console.log(`You are ${2026 - year} years old`);
+
+// myFunc(year_of_birth)
+
+// 4
+// var num = prompt(`Write number and I find your number is even or odd number: `)
+
+// if (num %2 == 0) console.log(`Your number: ${num} is even number`);
+// else if (num %2 == 1) console.log(`Your number: ${num} is odd number`);
+// else console.log(`Plese write number. No text.`);
+
+//5
+// var a = +prompt(`Write number A: `);
+// var b = +prompt(`Write number B: `);
+
+// function getMax(a, b) {
+//     if (a > b) {
+//         return console.log(`${a} > ${b} A is bigger than the B`);
+//     } else if (a < b) {
+//         return console.log(`${b} > ${a} B is bigger than the A`);
+//     } else if (a = b){
+//         return console.log(`${b} = ${a} A and B is same`);
+//     }else{
+//         console.log(`Write number everywhere`);
+        
+//     }
+// }
+// getMax(a,b)
+
+//6
+// var a = +prompt(`Write width A: `);
+// var b = +prompt(`Write height B: `);
+
+// const getRectangleArea = (a,b) => console.log(` Your rectangle's S = ${a * b}`);
+
+// getRectangleArea (a,b);
+
+//7 
+// var celsius = +prompt(`Write down the temperature in (C*) and I will change it to Fahrenheit values:`)
+
+// const toFar = c => console.log(`C Tenprerature in Far= ${c *1.8+32}`);
+
+// toFar(celsius)
+
+//8
+// const chackGrade = (grade) => {
+// if (grade>100) console.log(`Plese write number until 100`);
+// else if (grade<0) console.log(`Plese write number more than -1`);
+// else if(grade > 50 && grade < 101) console.log(`You are pass the exzam`);
+// else if (grade<51 && grade>-1)console.log(`You failed the exzam`);
+// else console.log(`Write only numbers`);
+// }
+
+// chackGrade(-30)
+
+//9
+// const checkingSign = num =>{
+//     if(num >0) console.log(`Musbat`);
+//     else if(num < 0) console.log(`Manfiy`);
+//     else if(num === 0 && num=== +0 && num === -0) console.log(`Thero`);
+//     else console.log(`Write number`);
+// }
+
+// checkingSign(-0)
+
+// ..10
+// const hours_to_seconds = hour => console.log(hour * 3600);
+// hours_to_seconds(5)
+
+//11
+// var a = +prompt(`Write width A: `);
+// var b = +prompt(`Write width B: `);
+// var c = +prompt(`Write width C: `);
+
+// const getAverege = (num1, num2, num3) =>{
+//     console.log((num1 + num2 + num3)/ 3 );
+// }
+
+
+// getAverege(a, b, c)
+
+// getAverege(12, 9, 9)
+
+//12
+// const multiplyByTen = num => console.log( num*10);
+
+// multiplyByTen(12)
+
+// //13
+// var a = +prompt(`Write things prise: `);
+// var b = +prompt(`Write things discount: `);
+// const applyDis = () => console.log(`${a - (a * b / 100)} $ you must pay`);
+
+// applyDis()
+
+//14 (GPT was halped)
+// const getStringLength = (text) => text.length;
+// console.log(getStringLength("You are faking niger"));
+
+//15
+// var day = +prompt(`Write week day: `);
+// const get_dayName= () =>{
+//     if(day==1)console.log(`Today is Mondey`);
+//     else if(day==2)console.log(`Today is Tuesday`);
+//     else if(day==3)console.log(`Today is Wednasday`);
+//     else if(day==4)console.log(`Today is Thirsday`);
+//     else if(day==5)console.log(`Today is Friday`);
+//     else if(day==6)console.log(`Today is Saturday`);
+//     else if(day==7)console.log(`Today is Sunday`);
+//     else console.log(`Write week day`);
+    
+// }
+// get_dayName()
+
+// Challenge 3
 
 
 
@@ -288,6 +423,20 @@
 
 
 
-// 38,
-//EX3 qila olmadim
-//Magazin chegirmalari ex 1  (ISHLAMADI SWICHDA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

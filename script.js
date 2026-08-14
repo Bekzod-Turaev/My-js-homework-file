@@ -413,14 +413,21 @@
 
 // Challenge 3
 
+// const calcAverade = (sc1, sc2, sc3) => (sc1+sc2+sc3)/3;
 
+// const scoreKoalas =() => calcAverade(44,23,71)
 
+// const scoreDolphins =() => calcAverade(65,54,49)
 
+// const checWinner = ()  =>{
+//     if (scoreDolphins() > scoreKoalas()){
+//         console.log(`Dolphins tim is win. Score: ${scoreDolphins}`);
+//     }else if(scoreDolphins() < scoreKoalas()){
+//         console.log(`Koals tim is win. Score: ${scoreKoalas}`);
+//     }else console.log(`No One won in this ivent`);
+// }
 
-
-
-
-
+// checWinner()
 
 
 

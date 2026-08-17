@@ -429,16 +429,73 @@
 
 // checWinner()
 
+//11-12
+//1
+// let us_name = prompt(`Write your name: `)
 
+// console.log(us_name.toUpperCase(us_name));
 
+// console.log(us_name.length);
 
+//2
+// let hie= `       Hello everyone!       `; 
+// let trime= hie.trim();
+// if (trime.startsWith(`Hello`)){
+//     console.log(`(H) start withi big letter`);
+// }else{
+//     console.log(`(H) start withi smal letter`);
 
+// }
 
+//3
+// let js="JavaScript juda zo'r til";
 
+// console.log(js.indexOf(`juda`), "indexdan boshlangan");
 
+//4
+// var fruits=`aple,banana,garapes,mango`;
 
+// console.log(fruits.split(","));
 
+//5
+// var text = `Do not touch me`;
+// console.log(text.substring( 3, 6));
+ 
+// 6
+// var hi=`Hello world`;
+// console.log(hi.replaceAll(`l`, `*`));
 
+//7
+// ?
+
+//8
+// let all = `First name: Ali, Second name: Gudini, Age= 40`;
+// console.log(all.split(`,`, 1));
+
+//9
+//?
+
+//10
+// let leters=`aassddff`;
+// console.log(leters.replace(`as`, ``));
+//?
+
+//11 ?
+
+//12
+// let date=`24 12 2024`;
+// console.log(date.replace(`12`, `December`));
+
+//13 ?
+
+// 14
+// var card = `1234567890123456`;
+// console.log( `************`+card.slice(-4));
+
+//15
+let camel=`myVariableName`;
+console.log(camel.replaceAll(/VariableName/g, `_variable_name`));
+//?
 
 
 

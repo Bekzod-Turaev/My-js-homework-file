@@ -429,13 +429,13 @@
 
 // checWinner()
 
-//11-12
+//11-12 lesson hw
 //1
 // let us_name = prompt(`Write your name: `)
 
 // console.log(us_name.toUpperCase(us_name));
-
 // console.log(us_name.length);
+
 
 //2
 // let hie= `       Hello everyone!       `; 
@@ -443,18 +443,16 @@
 // if (trime.startsWith(`Hello`)){
 //     console.log(`(H) start withi big letter`);
 // }else{
-//     console.log(`(H) start withi smal letter`);
-
+//     console.log(`(h) start withi smal letter`);
 // }
 
 //3
 // let js="JavaScript juda zo'r til";
-
 // console.log(js.indexOf(`juda`), "indexdan boshlangan");
+
 
 //4
 // var fruits=`aple,banana,garapes,mango`;
-
 // console.log(fruits.split(","));
 
 //5
@@ -493,8 +491,8 @@
 // console.log( `************`+card.slice(-4));
 
 //15
-let camel=`myVariableName`;
-console.log(camel.replaceAll(/VariableName/g, `_variable_name`));
+// let camel=`myVariableName`;
+// console.log(camel.replaceAll(/VariableName/g, `_variable_name`));
 //?
 
 
